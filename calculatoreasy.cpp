@@ -21,3 +21,6 @@ cout << a1 << "+" << a2 << "=" << plus  << endl;
     cout << a1 << "-" << a2 << "=" << minus << endl;
     cout << a1 << "*" << a2 << "=" << pow  << endl;
     cout << a1 << "/" << a2 << "=" << div  << endl;
+system("pause");
+    return 0;
+}
