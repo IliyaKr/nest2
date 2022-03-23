@@ -4,3 +4,8 @@
 #include <windows.h> /* Русификатор */
 using namespace std;
 int main(int argc, char* argv[])
+{
+    setlocale(LC_CTYPE,"Russian");
+    double plus, minus, pow, div; // объявление переменных через запятую
+    double a1; // отдельное объявление переменной a1
+    double a2; // отдельное объявление переменной a2
